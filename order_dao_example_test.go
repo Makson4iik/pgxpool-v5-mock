@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/driftprogramming/pgxpoolmock"
-	"github.com/driftprogramming/pgxpoolmock/testdata"
+	pgxpoolmock "github.com/Makson4iik/pgxpool-v5-mock"
+	"github.com/Makson4iik/pgxpool-v5-mock/testdata"
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 )
